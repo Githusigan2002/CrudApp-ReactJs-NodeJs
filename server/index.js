@@ -6,6 +6,11 @@ const fs = require("fs");
 const app = express();
 app.use(express.json());
 const port = process.env.PORT || 8000;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 05a2ab3ca62fa03ca03bac0a87fd0fe45112506e
 
 app.use(
   cors({
@@ -74,5 +79,9 @@ app.patch("/users/:id", (req, res) => {
 });
 
 app.listen(port, (err) => {
+<<<<<<< HEAD
   console.log(`App is running in port ${port}`);
+=======
+    console.log(`App is running in port ${port}`);
+>>>>>>> 05a2ab3ca62fa03ca03bac0a87fd0fe45112506e
 });
