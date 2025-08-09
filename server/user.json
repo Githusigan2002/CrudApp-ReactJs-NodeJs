@@ -118,59 +118,5 @@
     "name": "Archie Clark",
     "age": 28,
     "city": "Norwich"
-  },
-  {
-    "id": 22,
-    "name": "Poppy Lewis",
-    "age": 25,
-    "city": "Plymouth"
-  },
-  {
-    "id": 23,
-    "name": "Leo Walker",
-    "age": 36,
-    "city": "Bath"
-  },
-  {
-    "id": 24,
-    "name": "Daisy Scott",
-    "age": 32,
-    "city": "Chester"
-  },
-  {
-    "id": 25,
-    "name": "James Turner",
-    "age": 38,
-    "city": "Carlisle"
-  },
-  {
-    "id": 26,
-    "name": "Chloe Carter",
-    "age": 29,
-    "city": "Lancaster"
-  },
-  {
-    "id": 27,
-    "name": "Theodore Adams",
-    "age": 27,
-    "city": "Salisbury"
-  },
-  {
-    "id": 28,
-    "name": "Evie Mitchell",
-    "age": 30,
-    "city": "Gloucester"
-  },
-  {
-    "id": 29,
-    "name": "Logan Parker",
-    "age": 26,
-    "city": "Durham"
-  },
-  {
-    "id": 30,
-    "name": "Harper Bennett",
-    "age": 22,
-    "city": "Canterbury"
   }
 ]
